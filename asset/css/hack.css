@@ -1,0 +1,24 @@
+button{
+	width: 100%; 
+	margin-top: 10px;
+}
+
+.well{
+	margin-top: 10px;
+}
+
+a.thumbnail.active{
+	background-color: #3276B1;
+}
+
+.pick{
+	cursor: pointer;
+	font-size: 20px;
+}
+a.thumbnail.active .pick{
+	color: #FFFFFF;
+}
+
+.tooltop{
+	text-decoration: none;
+}
